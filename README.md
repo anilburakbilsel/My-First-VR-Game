@@ -1,0 +1,1 @@
+This is going to be my first trial to make a Virtual Reality game for HTC Virtual Reality Glass.
